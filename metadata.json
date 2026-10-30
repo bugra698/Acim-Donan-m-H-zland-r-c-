@@ -1,0 +1,6 @@
+{
+  "name": "TurboGPU Hızlandırıcı",
+  "description": "Telefonun işlemci ve grafik donanımını derinlemesine analiz edip akıllı performans kararları üreten ve oyun/grafik gücünü optimize eden donanım hızlandırıcı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
